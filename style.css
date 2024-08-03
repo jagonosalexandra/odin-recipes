@@ -1,0 +1,17 @@
+body {
+    font-family: Verdana, sans-serif;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+.recipes {
+    font-size: 24px;
+    color: #000000;
+}
+
+p,
+li {
+    font-size: 18px;
+}
