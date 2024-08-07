@@ -1,6 +1,6 @@
 body {
     font-family: Verdana, sans-serif;
-    font-size: 18px;
+    font-size: 16px;
 }
 
 h1,
@@ -9,7 +9,7 @@ h1,
 }
 
 h1 {
-    font-size: 48px;
+    font-size: 40px;
     margin-top: 50px
 }
 
@@ -24,7 +24,7 @@ img {
 
 .recipe-list {
     margin-bottom: 6px;
-    font-size: 24px;
+    font-size: 20px;
     color: #000000;
 }
 
@@ -39,13 +39,13 @@ img {
 }
 
 .content {
-    margin-bottom: 65px;
-    padding: 0 20em;
+    margin-bottom: 50px;
+    padding: 0 10em;
     text-align: justify;
 }
 
 .content img {
     margin: 0 auto;
-    width: 35em;
+    width: 70%;
     height: auto;
 }
